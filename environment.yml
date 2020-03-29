@@ -3,4 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - pip:
-    - mantichora>=0.9.8
+    - mantichora>=0.10.0
